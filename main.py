@@ -5,7 +5,7 @@ If you just want to have a look at the processed data, please check out file 'da
 All the produced graphs can be viewed and downloaded as '.PNG' images. It is however recommended to download the '.html'
 files since these allow you to interact with the figures such that you can find and look up specific molecules.
 
-In order to process the data yourself, please uncomment '# main()' of line 333 in this file, then run this file.
+In order to process the data yourself, please uncomment '# main()' of line 336 in this file, then run this file.
 Going to 'https://rcbs.org' leads you to the international protein databank. From here, you can copy the
 respective 'pdb-code-names' and paste them into one of three 'xxxxx_code_list.csv' files to process those respective
 molecules.
