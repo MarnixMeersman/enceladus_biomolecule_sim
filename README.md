@@ -7,7 +7,7 @@ files since these allow you to interact with the figures such that you can find 
 
 
 In order to process the data yourself, please uncomment '# main()' of line 336 in file main.py, then run this file.
-Going to 'https://rcbs.org' leads you to the international protein databank. From here, you can copy the
+Going to 'https://www.rcsb.org' leads you to the international protein databank. From here, you can copy the
 respective 'pdb-code-names' and paste them into one of three 'xxxxx_code_list.csv' files to process those respective
 molecules.
 This model simulates the time required for the disintegration of possible lifeforms on Enceladus.
