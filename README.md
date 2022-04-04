@@ -1,7 +1,7 @@
 # Enceladus Biomolecule Simulator
 By M.F.L. Meersman.\\
 In order to use this model, please first contact m.f.l.meersman@student.tudelft.nl to ask for my permission.
-If you just want to have a look at the processed data, please check out file 'dataframe.csv'.
+If you just want to have a look at the processed data, please check out file [dataframe.csv](https://github.com/MarnixMeersman/enceladus_biomolecule_sim/files/8410329/dataframe.csv).
 All the produced graphs can be viewed and downloaded as '.PNG' images. It is however recommended to download the '.html'
 files since these allow you to interact with the figures such that you can find and look up specific molecules.
 In order to process the data yourself, please uncomment '# main()' of line 336 in file main.py, then run this file.
