@@ -1,7 +1,7 @@
 # Enceladus Biomolecule Simulator
 By M.F.L. Meersman.\\
 In order to use this model, please first contact m.f.l.meersman@student.tudelft.nl to ask for my permission.
-If you just want to have a look at the processed data, please check out file [dataframe.csv](https://github.com/MarnixMeersman/enceladus_biomolecule_sim/files/8410329/dataframe.csv).
+If you just want to have a look at the processed data, please check out file [dataframe.csv](https://github.com/MarnixMeersman/enceladus_biomolecule_sim/blob/ce6f2701a066eb861c844f50069c26f659895668/dataframe.csv).
 All the produced graphs can be viewed and downloaded as '.PNG' images. It is however recommended to download the '.html'
 files since these allow you to interact with the figures such that you can find and look up specific molecules.
 
@@ -28,4 +28,4 @@ Have a quick look at how high you need to be above the surface in order to captu
 Or see how the molecules are distributed.
 ![Time_Histogram](https://user-images.githubusercontent.com/57674797/161560947-58bd4812-95ae-49c9-b0f2-dcf2b7a7a70f.png)
 If you want to download an Excel with all the data, inluding links to every molecule.
-[dataframe.csv](https://github.com/MarnixMeersman/enceladus_biomolecule_sim/files/8410329/dataframe.csv)
+[dataframe.csv](https://github.com/MarnixMeersman/enceladus_biomolecule_sim/blob/ce6f2701a066eb861c844f50069c26f659895668/dataframe.csv)
