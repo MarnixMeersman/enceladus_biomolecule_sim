@@ -113,7 +113,7 @@ def integral(xarr, yarr):
 
 def H(list):
     heights = []
-    avg_cov = 6.239
+    avg_cov = 4.094 #eV
     rad_per_sec_cm = 144675998.37885764
     for area in list:
         height = (avg_cov * 1000) / ((area/(10**16)) * rad_per_sec_cm * 10**6)
@@ -295,7 +295,7 @@ def generateresults():
 
     ''' This is an interactive application that allows people 
     to click different points in plots and gets them redirected 
-    to all the information related to the molecule. For now in Alpha state
+    to all the information related to the molecule. For now in Alpha state'''
 
     app = dash.Dash(__name__)
 
@@ -328,7 +328,7 @@ def generateresults():
             raise PreventUpdate
 
     app.run_server(debug=False)
-    '''
+    
 
 
 # Run once in order to generate all the data
