@@ -1,0 +1,166 @@
+HEADER    DNA                                     17-APR-97   3REC              
+TITLE     ESCHERICHIA COLI RECA PROTEIN-BOUND DNA, NMR, 1 STRUCTURE             
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: DNA (5'-D(*TP*A)-3');                                      
+COMPND   3 CHAIN: A;                                                            
+COMPND   4 ENGINEERED: YES;                                                     
+COMPND   5 OTHER_DETAILS: D(TA) REGION OF D(TACG) RECA PROTEIN-BOUND DNA        
+SOURCE    MOL_ID: 1;                                                            
+SOURCE   2 SYNTHETIC: YES                                                       
+KEYWDS    DEOXYRIBOSE-BASE STACKING, HOMOLOGOUS RECOMBINATION, HOMOLOGOUS       
+KEYWDS   2 PAIRING, DEOXYRIBONUCLEIC ACID, DNA                                  
+EXPDTA    SOLUTION NMR                                                          
+AUTHOR    T.NISHINAKA,Y.ITO,S.YOKOYAMA,T.SHIBATA                                
+REVDAT   3   16-MAR-22 3REC    1       REMARK                                   
+REVDAT   2   24-FEB-09 3REC    1       VERSN                                    
+REVDAT   1   22-OCT-97 3REC    0                                                
+JRNL        AUTH   T.NISHINAKA,Y.ITO,S.YOKOYAMA,T.SHIBATA                       
+JRNL        TITL   AN EXTENDED DNA STRUCTURE THROUGH DEOXYRIBOSE-BASE STACKING  
+JRNL        TITL 2 INDUCED BY RECA PROTEIN.                                     
+JRNL        REF    PROC.NATL.ACAD.SCI.USA        V.  94  6623 1997              
+JRNL        REFN                   ISSN 0027-8424                               
+JRNL        PMID   9192615                                                      
+JRNL        DOI    10.1073/PNAS.94.13.6623                                      
+REMARK   2                                                                      
+REMARK   2 RESOLUTION. NOT APPLICABLE.                                          
+REMARK   3                                                                      
+REMARK   3 REFINEMENT.                                                          
+REMARK   3   PROGRAM     : X-PLOR 3.1                                           
+REMARK   3   AUTHORS     : BRUNGER                                              
+REMARK   3                                                                      
+REMARK   3  OTHER REFINEMENT REMARKS: REFINEMENT DETAILS CAN BE FOUND IN THE    
+REMARK   3  MATERIAL AND METHODS SECTION OF THE ABOVE REFERENCE.                
+REMARK   4                                                                      
+REMARK   4 3REC COMPLIES WITH FORMAT V. 3.30, 13-JUL-11                         
+REMARK 100                                                                      
+REMARK 100 THIS ENTRY HAS BEEN PROCESSED BY BNL.                                
+REMARK 100 THE DEPOSITION ID IS D_1000179129.                                   
+REMARK 210                                                                      
+REMARK 210 EXPERIMENTAL DETAILS                                                 
+REMARK 210  EXPERIMENT TYPE                : NMR                                
+REMARK 210  TEMPERATURE           (KELVIN) : 303                                
+REMARK 210  PH                             : 7.1                                
+REMARK 210  IONIC STRENGTH                 : NULL                               
+REMARK 210  PRESSURE                       : NULL                               
+REMARK 210  SAMPLE CONTENTS                : NULL                               
+REMARK 210                                                                      
+REMARK 210  NMR EXPERIMENTS CONDUCTED      : TRANSFERRED NOESY                  
+REMARK 210  SPECTROMETER FIELD STRENGTH    : 600 MHZ                            
+REMARK 210  SPECTROMETER MODEL             : AMX600                             
+REMARK 210  SPECTROMETER MANUFACTURER      : BRUKER                             
+REMARK 210                                                                      
+REMARK 210  STRUCTURE DETERMINATION.                                            
+REMARK 210   SOFTWARE USED                 : X-PLOR                             
+REMARK 210   METHOD USED                   : SIMULATED ANNEALING                
+REMARK 210                                                                      
+REMARK 210 CONFORMERS, NUMBER CALCULATED   : 100                                
+REMARK 210 CONFORMERS, NUMBER SUBMITTED    : 1                                  
+REMARK 210 CONFORMERS, SELECTION CRITERIA  : LEAST OVERALL ENERGY               
+REMARK 210                                                                      
+REMARK 210 BEST REPRESENTATIVE CONFORMER IN THIS ENSEMBLE : NULL                
+REMARK 210                                                                      
+REMARK 210 REMARK: NULL                                                         
+REMARK 215                                                                      
+REMARK 215 NMR STUDY                                                            
+REMARK 215 THE COORDINATES IN THIS ENTRY WERE GENERATED FROM SOLUTION           
+REMARK 215 NMR DATA.  PROTEIN DATA BANK CONVENTIONS REQUIRE THAT                
+REMARK 215 CRYST1 AND SCALE RECORDS BE INCLUDED, BUT THE VALUES ON              
+REMARK 215 THESE RECORDS ARE MEANINGLESS.                                       
+REMARK 300                                                                      
+REMARK 300 BIOMOLECULE: 1                                                       
+REMARK 300 SEE REMARK 350 FOR THE AUTHOR PROVIDED AND/OR PROGRAM                
+REMARK 300 GENERATED ASSEMBLY INFORMATION FOR THE STRUCTURE IN                  
+REMARK 300 THIS ENTRY. THE REMARK MAY ALSO PROVIDE INFORMATION ON               
+REMARK 300 BURIED SURFACE AREA.                                                 
+REMARK 350                                                                      
+REMARK 350 COORDINATES FOR A COMPLETE MULTIMER REPRESENTING THE KNOWN           
+REMARK 350 BIOLOGICALLY SIGNIFICANT OLIGOMERIZATION STATE OF THE                
+REMARK 350 MOLECULE CAN BE GENERATED BY APPLYING BIOMT TRANSFORMATIONS          
+REMARK 350 GIVEN BELOW.  BOTH NON-CRYSTALLOGRAPHIC AND                          
+REMARK 350 CRYSTALLOGRAPHIC OPERATIONS ARE GIVEN.                               
+REMARK 350                                                                      
+REMARK 350 BIOMOLECULE: 1                                                       
+REMARK 350 AUTHOR DETERMINED BIOLOGICAL UNIT: MONOMERIC                         
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A                                     
+REMARK 350   BIOMT1   1  1.000000  0.000000  0.000000        0.00000            
+REMARK 350   BIOMT2   1  0.000000  1.000000  0.000000        0.00000            
+REMARK 350   BIOMT3   1  0.000000  0.000000  1.000000        0.00000            
+REMARK 900                                                                      
+REMARK 900 RELATED ENTRIES                                                      
+REMARK 900 RELATED ID: 1EW1   RELATED DB: PDB                                   
+REMARK 900 ENSEMBLE OF 10 STRUCTURES                                            
+DBREF  3REC A    1     2  PDB    3REC     3REC             1      2             
+SEQRES   1 A    2   DT  DA                                                      
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1          
+ORIGX1      1.000000  0.000000  0.000000        0.00000                         
+ORIGX2      0.000000  1.000000  0.000000        0.00000                         
+ORIGX3      0.000000  0.000000  1.000000        0.00000                         
+SCALE1      1.000000  0.000000  0.000000        0.00000                         
+SCALE2      0.000000  1.000000  0.000000        0.00000                         
+SCALE3      0.000000  0.000000  1.000000        0.00000                         
+ATOM      1  O5'  DT A   1       6.823  -2.711   6.110  1.00  0.00           O  
+ATOM      2  C5'  DT A   1       7.938  -1.871   6.464  1.00  0.00           C  
+ATOM      3  C4'  DT A   1       7.452  -0.639   7.195  1.00  0.00           C  
+ATOM      4  O4'  DT A   1       6.144  -0.280   6.693  1.00  0.00           O  
+ATOM      5  C3'  DT A   1       7.285  -0.842   8.701  1.00  0.00           C  
+ATOM      6  O3'  DT A   1       7.586   0.381   9.390  1.00  0.00           O  
+ATOM      7  C2'  DT A   1       5.808  -1.150   8.845  1.00  0.00           C  
+ATOM      8  C1'  DT A   1       5.190  -0.306   7.745  1.00  0.00           C  
+ATOM      9  N1   DT A   1       3.932  -0.849   7.204  1.00  0.00           N  
+ATOM     10  C2   DT A   1       2.869   0.009   7.039  1.00  0.00           C  
+ATOM     11  O2   DT A   1       2.921   1.195   7.319  1.00  0.00           O  
+ATOM     12  N3   DT A   1       1.736  -0.576   6.530  1.00  0.00           N  
+ATOM     13  C4   DT A   1       1.566  -1.902   6.178  1.00  0.00           C  
+ATOM     14  O4   DT A   1       0.487  -2.283   5.733  1.00  0.00           O  
+ATOM     15  C5   DT A   1       2.722  -2.745   6.378  1.00  0.00           C  
+ATOM     16  C7   DT A   1       2.633  -4.196   6.026  1.00  0.00           C  
+ATOM     17  C6   DT A   1       3.832  -2.184   6.874  1.00  0.00           C  
+ATOM     18  H5'  DT A   1       8.463  -1.568   5.558  1.00  0.00           H  
+ATOM     19 H5''  DT A   1       8.618  -2.428   7.109  1.00  0.00           H  
+ATOM     20  H4'  DT A   1       8.147   0.184   7.027  1.00  0.00           H  
+ATOM     21  H3'  DT A   1       7.894  -1.674   9.053  1.00  0.00           H  
+ATOM     22  H2'  DT A   1       5.610  -2.209   8.687  1.00  0.00           H  
+ATOM     23 H2''  DT A   1       5.438  -0.852   9.825  1.00  0.00           H  
+ATOM     24  H1'  DT A   1       5.026   0.704   8.121  1.00  0.00           H  
+ATOM     25  H3   DT A   1       0.938   0.029   6.398  1.00  0.00           H  
+ATOM     26  H71  DT A   1       2.823  -4.798   6.915  1.00  0.00           H  
+ATOM     27  H72  DT A   1       3.375  -4.431   5.263  1.00  0.00           H  
+ATOM     28  H73  DT A   1       1.636  -4.417   5.644  1.00  0.00           H  
+ATOM     29  H6   DT A   1       4.705  -2.818   7.025  1.00  0.00           H  
+ATOM     30 HO5'  DT A   1       6.384  -2.961   6.926  1.00  0.00           H  
+ATOM     31  P    DA A   2       8.546   0.352  10.679  1.00  0.00           P  
+ATOM     32  OP1  DA A   2       9.828   0.994  10.293  1.00  0.00           O  
+ATOM     33  OP2  DA A   2       8.551  -1.028  11.226  1.00  0.00           O  
+ATOM     34  O5'  DA A   2       7.812   1.303  11.726  1.00  0.00           O  
+ATOM     35  C5'  DA A   2       7.627   2.704  11.451  1.00  0.00           C  
+ATOM     36  C4'  DA A   2       6.387   3.214  12.150  1.00  0.00           C  
+ATOM     37  O4'  DA A   2       5.272   2.358  11.811  1.00  0.00           O  
+ATOM     38  C3'  DA A   2       6.487   3.192  13.675  1.00  0.00           C  
+ATOM     39  O3'  DA A   2       5.773   4.296  14.240  1.00  0.00           O  
+ATOM     40  C2'  DA A   2       5.817   1.883  14.043  1.00  0.00           C  
+ATOM     41  C1'  DA A   2       4.738   1.759  12.983  1.00  0.00           C  
+ATOM     42  N9   DA A   2       4.374   0.381  12.658  1.00  0.00           N  
+ATOM     43  C8   DA A   2       5.194  -0.720  12.626  1.00  0.00           C  
+ATOM     44  N7   DA A   2       4.577  -1.829  12.299  1.00  0.00           N  
+ATOM     45  C5   DA A   2       3.261  -1.433  12.101  1.00  0.00           C  
+ATOM     46  C6   DA A   2       2.116  -2.133  11.683  1.00  0.00           C  
+ATOM     47  N6   DA A   2       2.098  -3.444  11.435  1.00  0.00           N  
+ATOM     48  N1   DA A   2       0.973  -1.430  11.528  1.00  0.00           N  
+ATOM     49  C2   DA A   2       0.991  -0.115  11.777  1.00  0.00           C  
+ATOM     50  N3   DA A   2       2.002   0.654  12.174  1.00  0.00           N  
+ATOM     51  C4   DA A   2       3.122  -0.074  12.319  1.00  0.00           C  
+ATOM     52  H5'  DA A   2       7.520   2.849  10.376  1.00  0.00           H  
+ATOM     53 H5''  DA A   2       8.495   3.259  11.807  1.00  0.00           H  
+ATOM     54  H4'  DA A   2       6.177   4.233  11.826  1.00  0.00           H  
+ATOM     55  H3'  DA A   2       7.527   3.203  13.999  1.00  0.00           H  
+ATOM     56 HO3'  DA A   2       4.846   4.178  14.022  1.00  0.00           H  
+ATOM     57  H2'  DA A   2       6.520   1.052  13.988  1.00  0.00           H  
+ATOM     58 H2''  DA A   2       5.384   1.930  15.042  1.00  0.00           H  
+ATOM     59  H1'  DA A   2       3.855   2.308  13.310  1.00  0.00           H  
+ATOM     60  H8   DA A   2       6.258  -0.676  12.851  1.00  0.00           H  
+ATOM     61  H61  DA A   2       1.243  -3.890  11.135  1.00  0.00           H  
+ATOM     62  H62  DA A   2       2.940  -3.991  11.547  1.00  0.00           H  
+ATOM     63  H2   DA A   2       0.044   0.398  11.635  1.00  0.00           H  
+TER      64       DA A   2                                                      
+MASTER       68    0    0    0    0    0    0    6   38    1    0    1          
+END                                                                             
