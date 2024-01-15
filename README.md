@@ -1,6 +1,6 @@
 # Enceladus Biomolecule Simulator
-By M.F.L. Meersman.\\
-In order to use this model, please first contact m.f.l.meersman@student.tudelft.nl to ask for my permission, since this model is in no way validated.
+
+In order to use this model, please first contact m.f.l.meersman@student.tudelft.nl to ask for more info, since this model is in no way validated.
 If you just want to have a look at the processed data, please check out file [dataframe.csv](https://github.com/MarnixMeersman/enceladus_biomolecule_sim/blob/ce6f2701a066eb861c844f50069c26f659895668/dataframe.csv).
 All the produced graphs can be viewed and downloaded as '.PNG' images. It is however recommended to download the '.html'
 files since these allow you to interact with the figures such that you can find and look up specific molecules.
